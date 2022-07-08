@@ -2,8 +2,6 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BajIS%2BlhbT9WSr7G5NpBPmg%3D%3D)
 
 
-![Weslley GitHub stats](https://github-readme-stats.vercel.app/api?username=Weslley-hub&show_icons=true&theme=dracula) 
-
 ### Tecnologias que estudo e uso.
 <div style = "display: inline_black"><br/>
   <img aling="center' alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
