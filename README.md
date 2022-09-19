@@ -13,5 +13,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Weslley Teixeira](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B%2F%2BbrMlB6RD2tKyBLx8nhgA%3D%3D))
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:weslleyteixeira.dev@gmail.com)
+[![Linkedin: Weslley Teixeira](https://img.shields.io/badge/-WeslleyTeixeira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BhRN5FyunQHuWC4trjrYjHg%3D%3D-LINKEDIN)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BhRN5FyunQHuWC4trjrYjHg%3D%3D)
+
+[![Gmail Badge](https://img.shields.io/badge/-weslleyteixeira.dev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:weslleyteixeira.dev@gmail.com)](mailto:weslleyteixeira.dev@gmail.com)
