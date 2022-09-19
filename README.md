@@ -15,8 +15,4 @@
  </div><br/>
  
  ### Contato
- <div style = "display: inline_black"><br/>
- 
-[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](weslleyteixeira.dev@gmail.com)
- 
- </div>
+ ## weslleyteixeira.dev@gmail.com
