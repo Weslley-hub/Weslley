@@ -16,13 +16,5 @@
   <img aling="center' alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
  </div><br/>
                      
- ### Experiencia profissinal
- <br/>
- Estagio de 4 meses na Acender Engenharia.<br/>
- Onde trabalhava com a organização de rotas e comunicações das viaturas da empresa, ultilizando seu sistema e procurando soluções para problemas do dia a      dia. <br/>
- Bolsista PIBIC a mais de 1 ano.
- Onde estudo sobre a fisica em jogos virtuais, pratico modelagem na ferramenta blender e trabalho em equipe.
-        
-                     
  ### Contato profissional
  #### weslleyteixeira.dev@gmail.com
