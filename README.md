@@ -17,12 +17,12 @@
  </div><br/>
                      
  ### Experiencia profissinal
- <div><br/>
- #### Estagio de 4 meses na Acender Engenharia
- Onde trabalhava com a organização de rotas e comunicações das viaturas da empresa, ultilizando seu sistema e procurando soluções para problemas do dia a   dia.
- #### Bolsista PIBIC a mais de 1 ano
+ <br/>
+ ### Estagio de 4 meses na Acender Engenharia
+ Onde trabalhava com a organização de rotas e comunicações das viaturas da empresa, ultilizando seu sistema e procurando soluções para problemas do dia a   dia. <br/>
+ ### Bolsista PIBIC a mais de 1 ano
  Onde estudo sobre a fisica em jogos virtuais, pratico modelagem na ferramenta blender e trabalho em equipe.
- </div>        
+        
                      
  ### Contato profissional
  #### weslleyteixeira.dev@gmail.com
